@@ -1,1 +1,2 @@
-# C22_Doble_Pendulo
+# C22-double-pendulum
+reference code
